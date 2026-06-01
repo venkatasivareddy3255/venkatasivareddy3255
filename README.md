@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/venkata-siva-reddy-sagili-2b7327285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/venkatasivareddysagili" target="_blank">
+  <a href="https://github.com/venkatasivareddy3255" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="tel:+919392401912">
@@ -167,26 +167,26 @@ A fully responsive browser-based calculator with real-time input validation and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venkatasivareddysagili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasivareddysagili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=venkatasivareddy3255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasivareddy3255&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=venkatasivareddysagili&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=venkatasivareddy3255&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkatasivareddysagili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatasivareddy3255&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatasivareddysagili&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatasivareddy3255&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -241,7 +241,7 @@ A fully responsive browser-based calculator with real-time input validation and 
   <a href="https://www.linkedin.com/in/venkata-siva-reddy-sagili-2b7327285/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/venkatasivareddysagili" target="_blank">
+  <a href="https://github.com/venkatasivareddy3255" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -254,7 +254,7 @@ A fully responsive browser-based calculator with real-time input validation and 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatasivareddysagili&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=venkatasivareddy3255&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <br/>
   <i>⭐ If you like my work, consider giving a star to my repositories!</i>
 </div>
